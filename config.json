@@ -1,0 +1,9 @@
+{
+	"ip":"BoxNetwork.aternos.me",
+	"port": 26318,
+	"name": "MCBotOnline",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Redred1010",
+	"login-cmd":"/login Redred1010)"
+}
